@@ -6,12 +6,18 @@ h1 h2{
     width:78px;
 }
 
+footer{
+    margin-top:200px;
+    bottom:0;
+}
+
 main{
     margin : 2%;
 }
 
 .img_section{
-    width:200px;
+    width:500px;
+    height:auto;
     margin-left:10px;
     margin-right:10px;
 }
